@@ -21,10 +21,7 @@
 			"WhitelistPlatforms": [
 				"Win64",
 				"Linux",
-				"Android",
-				"PS4",
-				"XboxOne",
-				"Switch"
+				"Android"
 			]
 		},
 		{
@@ -34,10 +31,7 @@
 			"WhitelistPlatforms": [
 				"Win64",
 				"Linux",
-				"Android",
-				"PS4",
-				"XboxOne",
-				"Switch"
+				"Android"
 			]
 		},
 		{
